@@ -16,10 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Get_Thumbnails",
-			"Enabled": false
-		},
-		{
 			"Name": "E3DSFeatures",
 			"Enabled": true
 		},
@@ -55,6 +51,14 @@
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
+		},
+		{
+			"Name": "ThumbnailToTextureTool",
+			"Enabled": false
+		},
+		{
+			"Name": "Get_Thumbnails",
+			"Enabled": false
 		}
 	]
 }

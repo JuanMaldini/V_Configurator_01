@@ -60,6 +60,10 @@
 		{
 			"Name": "Get_Thumbnails",
 			"Enabled": false
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
